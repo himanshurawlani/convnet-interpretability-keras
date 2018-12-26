@@ -1,2 +1,2 @@
-# visualizing-cnn-keras
-Visualizing VGG16 Convolutional Neural Network using Keras
+# Visualizing VGG16 Convolutional Neural Network using Keras
+Read more about this project here
