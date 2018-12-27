@@ -1,4 +1,4 @@
-# Visualizing VGG16 Convolutional Neural Network using Keras
+# Visual intrepretability for Convolutional Neural Network in Keras
 Following visualization techniques are used:
 * Visualizing intermediate activations (convolution outputs)
 * Visualizing convolutional filter/kernels
